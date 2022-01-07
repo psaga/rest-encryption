@@ -1,0 +1,19 @@
+{
+  "name": "encryptionlib",
+  "version": "1.0.0",
+  "description": "Encryption library to protect potential eavesdropper attack when requesting over http.",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./src/test.js"
+  },
+  "author": "Pablo Sagastizabal",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "sinon": "^11.1.1"
+  }
+}
