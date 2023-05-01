@@ -2,7 +2,7 @@
 This library will help secure web application requests over http, using AES key for ciphering operations.
 
 ### Installing Docker
-This project use Docker so if you haven't installed before please visit https://docs.docker.com/engine/install/ and follow the instructions for your platform.
+This project uses Docker so if you haven't installed before please visit https://docs.docker.com/engine/install/ and follow the instructions for your platform.
 
 ### Building the docker image
 At the project root use the command:
